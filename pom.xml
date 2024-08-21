@@ -40,7 +40,19 @@
             <version>1.2.4</version>
         </dependency>
 
+             
+
     </dependencies>
 
-    
+     <distributionManagement>
+   <repository>
+      <id>nexus</id>
+      <name>cucumberbasic</name>
+      <url>http://54.255.77.24:8081/repository/cucumberbasic/</url>
+   </repository>
+   <snapshotRepository>
+      <id>nexus</id>
+      <name>cucucmberbasic2</name>
+      <url>http://54.255.77.24:8081/repository/cucucmberbasic2/</url>
+    </snapshotRepository>
 </project>
