@@ -55,4 +55,6 @@
       <name>cucucmberbasic2</name>
       <url>http://54.255.77.24:8081/repository/cucucmberbasic2/</url>
     </snapshotRepository>
+              </distributionManagement>
+
 </project>
